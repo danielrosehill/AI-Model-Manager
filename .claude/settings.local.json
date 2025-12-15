@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:mcp.residencejlm.com)",
+      "mcp__local-whisper__transcribe_clean"
+    ]
+  }
+}
